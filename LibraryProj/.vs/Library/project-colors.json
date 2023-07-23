@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "94d26a9e-054a-4048-a134-d9e492c1957d": {
+      "ProjectGuid": "94d26a9e-054a-4048-a134-d9e492c1957d",
+      "DisplayName": "App2",
+      "ColorIndex": 0
+    },
+    "becc4a3f-7c57-43ef-b36f-8354c41e1a57": {
+      "ProjectGuid": "becc4a3f-7c57-43ef-b36f-8354c41e1a57",
+      "DisplayName": "LibraryUX",
+      "ColorIndex": 1
+    },
+    "f11c49fb-c28a-4670-8151-116ed8908409": {
+      "ProjectGuid": "f11c49fb-c28a-4670-8151-116ed8908409",
+      "DisplayName": "LibraryUI",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

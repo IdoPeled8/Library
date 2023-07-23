@@ -1,0 +1,72 @@
+C:\Users\msvs\Desktop\Library\LibraryUX\obj\x64\Debug\LibraryUX.csproj.AssemblyReference.cache
+C:\Users\msvs\Desktop\Library\LibraryUX\obj\x64\Debug\LibraryUX.csproj.CoreCompileInputs.cache
+C:\Users\msvs\Desktop\Library\LibraryUX\bin\x64\Debug\LibraryUX.dll
+C:\Users\msvs\Desktop\Library\LibraryUX\bin\x64\Debug\LibraryUX.pdb
+C:\Users\msvs\Desktop\Library\LibraryUX\bin\x64\Debug\LibraryUX.pri
+C:\Users\msvs\Desktop\Library\LibraryUX\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\msvs\Desktop\Library\LibraryUX\obj\x64\Debug\LibraryUX.csproj.CopyComplete
+C:\Users\msvs\Desktop\Library\LibraryUX\obj\x64\Debug\LibraryUX.dll
+C:\Users\msvs\Desktop\Library\LibraryUX\obj\x64\Debug\LibraryUX.pdb
+C:\Users\msvs\Desktop\Library\LibraryUX\obj\x64\Debug\priconfig.xml
+C:\Users\msvs\Desktop\Library\LibraryUX\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\msvs\Desktop\Library\LibraryUX\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\msvs\Desktop\Library\LibraryUX\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\msvs\Desktop\Library\LibraryUX\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\msvs\Desktop\Library\LibraryUX\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\msvs\Desktop\Library\LibraryUX\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\msvs\Desktop\Library\LibraryUX\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\msvs\Desktop\Library\LibraryUX\obj\x64\Debug\resources.resfiles
+C:\Users\msvs\Desktop\Library\LibraryUX\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\msvs\Desktop\Library\LibraryUX\obj\x64\Debug\pri.resfiles
+C:\Users\msvs\Desktop\Library\LibraryUX\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\msvs\Desktop\Library\LibraryUX\obj\x64\Debug\qualifiers.txt
+C:\Users\msvs\Desktop\Library\LibraryUX\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\msvs\Desktop\Library\LibraryUX\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Library-20230330T145228Z-001\Library\LibraryUX\bin\x64\Debug\LibraryUX.dll
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Library-20230330T145228Z-001\Library\LibraryUX\bin\x64\Debug\LibraryUX.pdb
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Library-20230330T145228Z-001\Library\LibraryUX\bin\x64\Debug\LibraryUX.pri
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Library-20230330T145228Z-001\Library\LibraryUX\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Library-20230330T145228Z-001\Library\LibraryUX\obj\x64\Debug\LibraryUX.csproj.AssemblyReference.cache
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Library-20230330T145228Z-001\Library\LibraryUX\obj\x64\Debug\LibraryUX.csproj.CoreCompileInputs.cache
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Library-20230330T145228Z-001\Library\LibraryUX\obj\x64\Debug\LibraryUX.csproj.CopyComplete
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Library-20230330T145228Z-001\Library\LibraryUX\obj\x64\Debug\LibraryUX.dll
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Library-20230330T145228Z-001\Library\LibraryUX\obj\x64\Debug\LibraryUX.pdb
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Library-20230330T145228Z-001\Library\LibraryUX\obj\x64\Debug\priconfig.xml
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Library-20230330T145228Z-001\Library\LibraryUX\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Library-20230330T145228Z-001\Library\LibraryUX\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Library-20230330T145228Z-001\Library\LibraryUX\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Library-20230330T145228Z-001\Library\LibraryUX\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Library-20230330T145228Z-001\Library\LibraryUX\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Library-20230330T145228Z-001\Library\LibraryUX\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Library-20230330T145228Z-001\Library\LibraryUX\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Library-20230330T145228Z-001\Library\LibraryUX\obj\x64\Debug\resources.resfiles
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Library-20230330T145228Z-001\Library\LibraryUX\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Library-20230330T145228Z-001\Library\LibraryUX\obj\x64\Debug\pri.resfiles
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Library-20230330T145228Z-001\Library\LibraryUX\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Library-20230330T145228Z-001\Library\LibraryUX\obj\x64\Debug\qualifiers.txt
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Library-20230330T145228Z-001\Library\LibraryUX\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Library-20230330T145228Z-001\Library\LibraryUX\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Library Proj All\Library\LibraryUX\bin\x64\Debug\LibraryUX.dll
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Library Proj All\Library\LibraryUX\bin\x64\Debug\LibraryUX.pdb
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Library Proj All\Library\LibraryUX\bin\x64\Debug\LibraryUX.pri
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Library Proj All\Library\LibraryUX\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Library Proj All\Library\LibraryUX\obj\x64\Debug\LibraryUX.csproj.AssemblyReference.cache
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Library Proj All\Library\LibraryUX\obj\x64\Debug\LibraryUX.csproj.CoreCompileInputs.cache
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Library Proj All\Library\LibraryUX\obj\x64\Debug\LibraryUX.csproj.CopyComplete
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Library Proj All\Library\LibraryUX\obj\x64\Debug\LibraryUX.dll
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Library Proj All\Library\LibraryUX\obj\x64\Debug\LibraryUX.pdb
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Library Proj All\Library\LibraryUX\obj\x64\Debug\priconfig.xml
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Library Proj All\Library\LibraryUX\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Library Proj All\Library\LibraryUX\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Library Proj All\Library\LibraryUX\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Library Proj All\Library\LibraryUX\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Library Proj All\Library\LibraryUX\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Library Proj All\Library\LibraryUX\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Library Proj All\Library\LibraryUX\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Library Proj All\Library\LibraryUX\obj\x64\Debug\resources.resfiles
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Library Proj All\Library\LibraryUX\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Library Proj All\Library\LibraryUX\obj\x64\Debug\pri.resfiles
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Library Proj All\Library\LibraryUX\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Library Proj All\Library\LibraryUX\obj\x64\Debug\qualifiers.txt
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Library Proj All\Library\LibraryUX\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\Library Proj All\Library\LibraryUX\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt

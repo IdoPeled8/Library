@@ -1,0 +1,2 @@
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUX\oLibraryUX.csproj;neutral
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\UnitTest\UnitTest.csproj;x64

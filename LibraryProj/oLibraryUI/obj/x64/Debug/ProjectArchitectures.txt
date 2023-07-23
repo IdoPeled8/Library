@@ -1,0 +1,2 @@
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\Logic\Logic.csproj;neutral
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\oLibraryUI.csproj;x64

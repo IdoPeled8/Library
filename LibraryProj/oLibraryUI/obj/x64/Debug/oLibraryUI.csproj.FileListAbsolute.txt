@@ -1,0 +1,126 @@
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\bin\x64\Debug\App.xbf
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\bin\x64\Debug\LibraryUI.xr.xml
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\bin\x64\Debug\LibraryUI.exe
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\bin\x64\Debug\LibraryUI.pdb
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\bin\x64\Debug\resources.pri
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\bin\x64\Debug\AppxManifest.xml
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\bin\x64\Debug\Core\LibraryUI.exe
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\bin\x64\Debug\oLibraryUI.build.appxrecipe
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\bin\x64\Debug\System.Runtime.dll
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\bin\x64\Debug\sqlite3.dll
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\bin\x64\Debug\LibraryUX.dll
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\bin\x64\Debug\LibraryUX.pdb
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\bin\x64\Debug\LibraryUX.pri
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\obj\x64\Debug\oLibraryUI.csproj.AssemblyReference.cache
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\obj\x64\Debug\App.g.i.cs
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\obj\x64\Debug\App.g.cs
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\obj\x64\Debug\App.xaml
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\obj\x64\Debug\App.xbf
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\obj\x64\Debug\oLibraryUI.csproj.CoreCompileInputs.cache
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\obj\x64\Debug\oLibraryUI.csproj.CopyComplete
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\obj\x64\Debug\LibraryUX.pri.xml
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\obj\x64\Debug\LibraryUI.exe
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\obj\x64\Debug\LibraryUI.pdb
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\obj\x64\Debug\priconfig.xml
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\obj\x64\Debug\resources.resfiles
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\obj\x64\Debug\pri.resfiles
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\obj\x64\Debug\qualifiers.txt
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637934950560000000.json
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\bin\x64\Debug\Pages\LoginPage.xbf
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\obj\x64\Debug\Pages\LoginPage.g.i.cs
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\obj\x64\Debug\Pages\LoginPage.g.cs
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\obj\x64\Debug\Pages\LoginPage.xaml
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\obj\x64\Debug\Pages\LoginPage.xbf
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\bin\x64\Debug\Pages\LibraryPage.xbf
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\obj\x64\Debug\Pages\LibraryPage.g.i.cs
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\obj\x64\Debug\Pages\LibraryPage.g.cs
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\obj\x64\Debug\Pages\LibraryPage.xaml
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\obj\x64\Debug\Pages\LibraryPage.xbf
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\bin\x64\Debug\Pages\AddAndEditPage.xbf
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\obj\x64\Debug\Pages\AddAndEditPage.g.i.cs
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\obj\x64\Debug\Pages\AddAndEditPage.g.cs
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\obj\x64\Debug\Pages\AddAndEditPage.xaml
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\obj\x64\Debug\Pages\AddAndEditPage.xbf
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\bin\x64\Debug\JsonSubTypes.dll
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUI\bin\x64\Debug\Newtonsoft.Json.Schema.dll
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\bin\x64\Debug\App.xbf
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\bin\x64\Debug\Pages\AddAndEditPage.xbf
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\bin\x64\Debug\Pages\LoginPage.xbf
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\bin\x64\Debug\Pages\LibraryPage.xbf
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\bin\x64\Debug\LibraryUI.xr.xml
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\bin\x64\Debug\LibraryUI.exe
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\bin\x64\Debug\LibraryUI.pdb
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\bin\x64\Debug\resources.pri
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\bin\x64\Debug\AppxManifest.xml
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\bin\x64\Debug\Core\LibraryUI.exe
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\bin\x64\Debug\oLibraryUI.build.appxrecipe
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\bin\x64\Debug\JsonSubTypes.dll
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\bin\x64\Debug\Newtonsoft.Json.Schema.dll
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\bin\x64\Debug\System.Runtime.dll
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\bin\x64\Debug\sqlite3.dll
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\bin\x64\Debug\LibraryUX.dll
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\bin\x64\Debug\LibraryUX.pdb
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\bin\x64\Debug\LibraryUX.pri
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\obj\x64\Debug\oLibraryUI.csproj.AssemblyReference.cache
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\obj\x64\Debug\App.g.i.cs
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\obj\x64\Debug\App.g.cs
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\obj\x64\Debug\Pages\AddAndEditPage.g.i.cs
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\obj\x64\Debug\Pages\AddAndEditPage.g.cs
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\obj\x64\Debug\Pages\LoginPage.g.i.cs
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\obj\x64\Debug\Pages\LoginPage.g.cs
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\obj\x64\Debug\Pages\LibraryPage.g.i.cs
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\obj\x64\Debug\Pages\LibraryPage.g.cs
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\obj\x64\Debug\App.xaml
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\obj\x64\Debug\Pages\AddAndEditPage.xaml
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\obj\x64\Debug\Pages\LoginPage.xaml
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\obj\x64\Debug\Pages\LibraryPage.xaml
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\obj\x64\Debug\App.xbf
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\obj\x64\Debug\Pages\AddAndEditPage.xbf
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\obj\x64\Debug\Pages\LoginPage.xbf
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\obj\x64\Debug\Pages\LibraryPage.xbf
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\obj\x64\Debug\oLibraryUI.csproj.CoreCompileInputs.cache
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\obj\x64\Debug\oLibraryUI.csproj.CopyComplete
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\obj\x64\Debug\LibraryUX.pri.xml
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\obj\x64\Debug\LibraryUI.exe
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\obj\x64\Debug\LibraryUI.pdb
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\obj\x64\Debug\priconfig.xml
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\obj\x64\Debug\resources.resfiles
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\obj\x64\Debug\pri.resfiles
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\obj\x64\Debug\qualifiers.txt
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\oLibraryUI\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637934950560000000.json
